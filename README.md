@@ -37,16 +37,12 @@ Currently, I am an active member of the **Bilkent Space and Aeronautics Society*
 | **[Bilkom](https://github.com/mert-uzun/bilkom)** | Exclusive social platform for Bilkent students. Developed the Android frontend with secure Retrofit + REST API integration. | `Java` `Android Studio` |
 | **[CS-223 Labs](https://github.com/silabzkrt/CS-223-Labs)** | Digital Logic and Computer Architecture projects on Basys3 FPGA. | `SystemVerilog` |
 
----
 
 ### ⚡ Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silabzkrt&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silabzkrt&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=silabzkrt&show_icons=true&theme=radical)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silabzkrt&layout=compact&theme=radical)
 
 ### 📫 Connect with me
 - **LinkedIn**: [sila-bozkurt](https://linkedin.com/in/sila-bozkurt)
