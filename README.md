@@ -1,6 +1,6 @@
 # Hi there, I'm Sıla! 👋
 
-### Sophomore Computer Science Student @ Bilkent University
+### Junior Computer Science Student @ Bilkent University
 
 ### Connect with me
 - **LinkedIn**: [sila-bozkurt](https://linkedin.com/in/sila-bozkurt)
